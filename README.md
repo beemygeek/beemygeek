@@ -1,8 +1,8 @@
 # Hi, I'm Bee 🐝
 
-**SOC Analyst & IT Engineer · Founder, BMG Technology Solutions · Dallas–Fort Worth**
+**SOC Analyst & IT Engineer · 
 
-I keep systems running, keep users productive, and keep attackers out. I've run my own IT business since 2018, support a nonprofit's Microsoft 365 environment as its IT lead, and build the automation that runs my e-commerce operation on Azure. I'm currently completing a **B.S. in Information Technology (Cybersecurity)** at Arizona State University.
+I keep systems running, keep users productive, and keep attackers out. I've run my own IT business since 2018, support a nonprofit's Microsoft 365 environment as its IT lead, and build the automation that runs my e-commerce operation on Azure. 
 
 ---
 
