@@ -1,36 +1,20 @@
-# Hi, I'm Bee 🐝
+# Hi, I’m Bee 🐝
 
-**SOC Analyst & IT Engineer · 
+**SOC analyst and IT engineer in Dallas–Fort Worth.** I work on Windows and identity administration, security operations, and automation for small businesses. I’m studying IT with a cybersecurity focus at Arizona State University and run [BMG Technology Solutions](https://bmg-ts.com/).
 
-I keep systems running, keep users productive, and keep attackers out. I've run my own IT business since 2018, support a nonprofit's Microsoft 365 environment as its IT lead, and build the automation that runs my e-commerce operation on Azure. 
+## Featured work
 
----
+| Project | What you can explore |
+| --- | --- |
+| [PowerShell IT Toolkit](https://github.com/beemygeek/powershell-it-toolkit) | Windows and Active Directory scripts for onboarding, offboarding, stale accounts, password expiration, endpoint health, and failed-logon analysis. |
+| [SOC Security Lab](https://github.com/beemygeek/soc-security-lab) | Sigma and KQL detections mapped to MITRE ATT&CK, a phishing triage workflow, incident response playbooks, and a Windows lab build guide. |
+| [BMG Commerce OS](https://github.com/beemygeek/bmg-commerce-os) | An architecture case study for commerce automation using FastAPI, PostgreSQL, Celery, Azure Container Apps, and Amazon SP-API. |
+| [IT Case Studies](https://github.com/beemygeek/it-case-studies) | Write-ups on outage recovery, TLS troubleshooting, and Microsoft 365 help desk design. |
 
-### 🔧 What I work with
+## What I’m building at BMG
 
-| Area | Tools & skills |
-|---|---|
-| **Help desk & endpoint** | Windows 10/11, Active Directory, Group Policy, SCCM/MECM, Microsoft 365 admin, ticketing & triage |
-| **Systems administration** | Windows Server, PowerShell automation, Entra ID, Exchange Online, SharePoint, Teams |
-| **Security operations** | Alert triage, phishing analysis, incident response, log analysis (KQL, Sigma), Sysmon, Windows Event Logs |
-| **Cloud & infrastructure** | Azure Container Apps, Azure Container Registry, Log Analytics, Service Bus, Bicep, PostgreSQL |
-| **Development** | Python (FastAPI, Celery), TypeScript/React, Next.js, REST APIs, Git |
+- **WooCommerce price sync.** An internal tool turns D&H distributor exports into proposed WooCommerce price changes. The workflow previews updates, supports approval by SKU, and flags ambiguous matches and large price changes for review.
+- **Storefront operations.** I’ve worked on connecting WordPress and WooCommerce to Google Workspace so inquiries and paid-order events can be recorded with fewer manual handoffs. I also exported the WooCommerce product catalog into Google Sheets for review.
+- **Daily runbooks.** I document how to preview price changes, handle exceptions, and run the order and catalog workflows as a solo operator.
 
-### 📂 Featured work
-
-| Repo | What it shows |
-|---|---|
-| [**powershell-it-toolkit**](https://github.com/beemygeek/powershell-it-toolkit) | Production-style PowerShell for help desk & sysadmin work: AD onboarding/offboarding, stale-account and password-expiry reports, endpoint health checks |
-| [**soc-security-lab**](https://github.com/beemygeek/soc-security-lab) | Detection rules (Sigma + KQL) mapped to MITRE ATT&CK, incident-response playbooks, phishing-triage workflow, and home-lab build notes |
-| [**bmg-commerce-os**](https://github.com/beemygeek/bmg-commerce-os) | Case study: multi-tenant commerce automation platform I designed and deployed on Azure (FastAPI, PostgreSQL, Celery, Container Apps) |
-| [**it-case-studies**](https://github.com/beemygeek/it-case-studies) | Real-world write-ups: outage recovery, Microsoft 365 help desk design, SSL/TLS remediation, small-business IT operations |
-
-### 📈 Right now
-
-- 🎓 B.S. IT (Cybersecurity) — ASU Online, Ira A. Fulton Schools of Engineering
-- 🛡️ Building out detection content and a Windows/AD home lab
-- ☁️ Running and hardening a production workload on Azure
-
-### 🎯 Open to
-
-**IT Support · Help Desk · Desktop Support · Systems Administrator · SOC Analyst** roles in Dallas–Fort Worth (on-site, hybrid, or remote).
+I’m open to SOC analyst, IT support, and systems administration roles in Dallas–Fort Worth and remotely.
