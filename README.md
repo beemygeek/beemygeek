@@ -11,6 +11,15 @@
 | [BMG Commerce OS](https://github.com/beemygeek/bmg-commerce-os) | An architecture case study for commerce automation using FastAPI, PostgreSQL, Celery, Azure Container Apps, and Amazon SP-API. |
 | [IT Case Studies](https://github.com/beemygeek/it-case-studies) | Write-ups on outage recovery, TLS troubleshooting, and Microsoft 365 help desk design. |
 
+## Start with these examples
+
+| If you want to see… | Review |
+| --- | --- |
+| Windows troubleshooting | [Endpoint health checks](https://github.com/beemygeek/powershell-it-toolkit/blob/main/Endpoint/Get-EndpointHealth.ps1) covering disk space, memory, pending reboots, Defender, patches, and BitLocker. |
+| Security log analysis | [Failed-logon reporting](https://github.com/beemygeek/powershell-it-toolkit/blob/main/Security/Get-FailedLogonReport.ps1) that groups Windows events by source and account to flag possible password spraying. |
+| Cloud identity detection | [Entra ID password-spray query](https://github.com/beemygeek/soc-security-lab/blob/main/detections/kql/password_spray_entra.kql) that groups sign-in activity by source IP and time window. |
+| Incident response documentation | [Phishing triage playbook](https://github.com/beemygeek/soc-security-lab/blob/main/playbooks/phishing-triage.md) covering intake, analysis, containment, and incident notes. |
+
 ## What I’m building at BMG
 
 - **WooCommerce price sync.** An internal tool turns D&H distributor exports into proposed WooCommerce price changes. The workflow previews updates, supports approval by SKU, and flags ambiguous matches and large price changes for review.
